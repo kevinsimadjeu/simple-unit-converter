@@ -1,6 +1,6 @@
-# JetpackComposeApp1
+# The unit converter 
 
-**JetpackComposeApp1** is an Android application developed with **Jetpack Compose**.  
+**unit converter** is an Android application developed with **Jetpack Compose**.  
 It demonstrates the use of modern Compose UI components and a clean architecture to organize screens and reusable components.
 
 # Project Structure
