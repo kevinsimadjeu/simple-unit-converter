@@ -95,7 +95,7 @@ Gradle Kotlin DSL (build.gradle.kts)
 
 # Features
 
-Modern UI using Jetpack Compose
+Simple UI using Jetpack Compose
 
 Modular organization of UI components
 
