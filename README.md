@@ -4,7 +4,7 @@
 It demonstrates the use of modern Compose UI components and a clean architecture to organize screens and reusable components.
 
 # Project Structure
-
+```
 ├── app/
 
 │ ├── src/
@@ -42,7 +42,7 @@ It demonstrates the use of modern Compose UI components and a clean architecture
 ├── settings.gradle.kts
 
 └── .gitignore
-
+```
 
 ### `MainActivity.kt`
 MainActivity.kt
